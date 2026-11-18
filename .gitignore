@@ -1,0 +1,11 @@
+# Build output
+*.o
+*.a
+qserver
+qclient
+threadedEcho
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
